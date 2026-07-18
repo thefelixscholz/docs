@@ -21,13 +21,13 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Research",
           "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "icon": "researchgate"
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://read.thefelixscholz.com",
           "icon": "newspaper"
         }
       ]
