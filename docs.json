@@ -21,9 +21,9 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Research",
+          "anchor": "Documentation",
           "href": "https://mintlify.com/docs",
-          "icon": "researchgate"
+          "icon": "book-open-cover"
         },
         {
           "anchor": "Blog",
