@@ -21,17 +21,98 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Research",
           "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "icon": "researchgate"
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://read.thefelixscholz.com",
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "groups": [
+      {
+        "group": "AI for Business",
+        "pages": [
+          "index",
+          "quickstart",
+          {
+            "group": "AEO Formula",
+            "pages": [
+              "untitled-page"
+            ]
+          },
+          {
+            "group": "Prompt Engineering",
+            "pages": [
+              "untitled-page"
+            ]
+          },
+          {
+            "group": "AEO Formula",
+            "pages": [
+              "untitled-page"
+            ]
+          },
+          {
+            "group": "Prompt Engineering",
+            "pages": [
+              "untitled-page"
+            ]
+          },
+          {
+            "group": "AEO Formula",
+            "pages": [
+              "untitled-page"
+            ]
+          },
+          {
+            "group": "Prompt Engineering",
+            "pages": [
+              "untitled-page"
+            ]
+          },
+          {
+            "group": "AEO Formula",
+            "pages": [
+              "untitled-page"
+            ]
+          },
+          {
+            "group": "Prompt Engineering",
+            "pages": [
+              "untitled-page"
+            ]
+          },
+          {
+            "group": "AEO Formula",
+            "pages": [
+              "untitled-page"
+            ]
+          },
+          {
+            "group": "Prompt Engineering",
+            "pages": [
+              "untitled-page"
+            ]
+          },
+          {
+            "group": "AEO Formula",
+            "pages": [
+              "untitled-page"
+            ]
+          },
+          {
+            "group": "Prompt Engineering",
+            "pages": [
+              "untitled-page"
+            ]
+          }
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
